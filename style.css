@@ -1,0 +1,55 @@
+.btn-hover{
+    background-color: blue;
+    padding: 50px;
+    
+}
+
+.btn-hover button{
+    background-color: rgb(162, 65, 1);
+    font-weight: bolder;
+    font-size: xx-large;
+    border-radius: 10px;
+    margin-left: 20%;
+    transition: background-color 0s ease ease-in;
+}
+
+.btn-hover button:hover{
+    background-color: rgb(250, 0, 0);
+    
+   
+    
+}
+.box{
+    border: 2px solid black;
+    background-color: darkgreen;
+    color: white;
+    
+}
+
+.box-container{
+    margin-top: 50px;
+    background-color: chartreuse;
+    /* gap: 20px; */
+}
+.form-floating{
+    margin-bottom: 100px;
+}
+
+.visually-hidden{
+    align-content: center;
+}
+.cont{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    background-color: darkgrey;
+    /* text-align: center; */
+}
+
+.sect{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.hed{
+    align-self: center;
+}
